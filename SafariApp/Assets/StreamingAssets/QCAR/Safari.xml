@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="tiger" size="100.000000 75.000000" />
+    <ImageTarget name="beruang" size="100.000000 75.000000" />
+    <ImageTarget name="eagle" size="100.000000 75.000000" />
+    <ImageTarget name="white-tiger" size="100.000000 91.447365" />
+    <ImageTarget name="turtles" size="100.000000 69.453125" />
+    <ImageTarget name="simpanse" size="100.000000 106.714287" />
+    <ImageTarget name="pantherblack" size="100.000000 50.400002" />
+    <ImageTarget name="bison" size="100.000000 90.586418" />
     <ImageTarget name="sumateraelephant_marker" size="100.000000 132.124359" />
+    <ImageTarget name="rese" size="200.000000 163.846161" />
   </Tracking>
 </QCARConfig>
