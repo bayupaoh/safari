@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suitmedia.bundle.sample",
+    "sha256_cert_fingerprints":
+    ["ED:CE:60:C9:57:51:2F:20:92:99:64:A8:82:8C:94:D2:A3:A7:71:74:23:43:C3:5A:30:70:5F:F4:4F:00:B3:18"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://bayuinstantaab.azurewebsites.net"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suitmedia.bundle.sample",
+    "sha256_cert_fingerprints":
+    ["ED:CE:60:C9:57:51:2F:20:92:99:64:A8:82:8C:94:D2:A3:A7:71:74:23:43:C3:5A:30:70:5F:F4:4F:00:B3:18"]
+  }
+}]
